@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aruna</h1>
-<h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="simle" width="300" src=https://media.tenor.com/4gZ1ykO_j_IAAAAC/shades-smile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruuthakur&label=Profile%20views&color=0e75b6&style=flat" alt="aruuthakur" /> </p>
 
-- 🌱 I’m currently learning **Django ,Flask**
 
 - 📫 How to reach me **arunathakur2225@gmail.com**
 
